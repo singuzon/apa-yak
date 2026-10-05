@@ -1,7 +1,7 @@
 {
   "name": "Melanii",
   "short_name": "Melanii",
-  "start_url": "/jaka.html",
+  "start_url": "jaka.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#c04bd6",
