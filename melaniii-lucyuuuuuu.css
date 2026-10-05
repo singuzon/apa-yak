@@ -1,0 +1,90 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.lucyuuu {}
+
+.melanii-navbar {
+  background-color: #3B2A6B;
+  width: 100%;
+  height: auto;
+}
+
+.pacarkuuu-navbar {
+  display: flex;
+  height: auto;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.cewekuu-navbar {
+  list-style-type: none;
+  padding: 20px;
+  margin: 5px;
+  color: white;
+  font-size: 30px;
+}
+
+.cewekuu-navbar:hover {
+  background-color:#C74375;
+  transition: .2s ease-in-out;
+  border-radius: 8px;
+}
+
+.melanii-imyutt {
+  color: white;
+  text-decoration: none;
+  font-weight: 800;
+}
+
+.potooo-cantikkk {
+  background-color: #B163A3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  padding: 20px 0;
+}
+
+.princess {
+  background-color: white;
+  color: black;
+  text-decoration: none;
+  font-size: 30px;
+  width: 90%;
+  max-width: 720px;
+  height: auto;
+  min-height: 480px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 80px;
+  box-shadow: 5px 5px 15px 5px rgba(95, 75, 139, 0.4) 
+}
+
+.gambarr-melanii {
+  width: 300px;
+  height: auto;
+}
+
+.cantikk-kaliii-pacarkuuu {
+  height: auto;
+  padding: 20px;
+  background-color: #5F4B8B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lucyuuuu-bangettt {
+  font-size: 40px;
+  color: white;
+  margin: 0;
+}
+
